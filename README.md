@@ -28,5 +28,6 @@ Olá está é uma API de cadastro de Pokémon, é algo bem simples, será possí
 * Selecionar Todos
 * Selecionar por Id
 
-### Obs: É necessário ter o SQL SERVER instalado.
-### ¹: Visual Studio -> View -> Other Windows -> Package Manager Console
+#### Obs: É necessário ter o SQL SERVER Develop instalado.
+#### Obs²: Caso possua o SQL SERVER EXPRESS instalado, deverá adicionar o seguinte no arquivo appsettings.json.
+#### ¹: Visual Studio -> View -> Other Windows -> Package Manager Console
