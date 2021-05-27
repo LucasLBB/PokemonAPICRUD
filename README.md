@@ -30,5 +30,5 @@ Olá está é uma API de cadastro de Pokémon, é algo bem simples, será possí
 
 #### Obs: É necessário ter o SQL SERVER Develop instalado.
 #### Obs²: Caso possua o SQL SERVER EXPRESS instalado, deverá adicionar o seguinte no arquivo appsettings.json.
-<img src="/docs/logo.png" alt="info"/>
+<img src="https://github.com/LucasLBB/PokemonAPICRUD/blob/main/Test/info.png" alt="info"/>
 #### ¹: Visual Studio -> View -> Other Windows -> Package Manager Console
